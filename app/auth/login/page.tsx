@@ -29,7 +29,7 @@ export default function LoginPage() {
       setIsLoading(false)
       toast({
         title: "Login successful",
-        description: `Welcome back to CareerAI!`,
+        description: `Welcome back to Achyver!`,
       })
 
       // Redirect based on user type
@@ -47,12 +47,12 @@ export default function LoginPage() {
         <div className="absolute inset-0 bg-gradient-to-b from-primary to-purple-700"></div>
         <div className="relative z-20 flex items-center text-lg font-medium">
           <Briefcase className="mr-2 h-6 w-6" />
-          <span className="text-xl font-bold">CareerAI</span>
+          <span className="text-xl font-bold">Achyver</span>
         </div>
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">
             <p className="text-lg">
-              "CareerAI has completely transformed our hiring process. We've reduced our time-to-hire by 60% and found
+              "Achyver has completely transformed our hiring process. We've reduced our time-to-hire by 60% and found
               better quality candidates."
             </p>
             <footer className="text-sm">Sarah Johnson, CTO at TechCorp</footer>

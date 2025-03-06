@@ -9,7 +9,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "CareerAI - AI-Powered Job Portal",
+  title: "Achyver - AI-Powered Job Portal",
   description: "Find your dream job or hire top talent with our AI-powered job portal.",
     generator: 'v0.dev'
 }
@@ -29,7 +29,7 @@ export default function RootLayout({
             <footer className="border-t py-6 md:py-0">
               <div className="container flex flex-col items-center justify-between gap-4 md:h-24 md:flex-row">
                 <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
-                  © 2023 CareerAI. All rights reserved.
+                  © 2023 Achyver. All rights reserved.
                 </p>
                 <nav className="flex items-center space-x-4 text-sm">
                   <a href="/terms" className="text-muted-foreground hover:text-foreground">

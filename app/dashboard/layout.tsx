@@ -4,8 +4,8 @@ import DashboardSidebar from "@/components/dashboard/dashboard-sidebar"
 import DashboardHeader from "@/components/dashboard/dashboard-header"
 
 export const metadata: Metadata = {
-  title: "Dashboard - CareerAI",
-  description: "Manage your job applications and profile on CareerAI",
+  title: "Dashboard - Achyver",
+  description: "Manage your job applications and profile on Achyver",
 }
 
 export default function DashboardLayout({

@@ -1,6 +1,6 @@
-# CareerAI - AI-Powered Job Portal
+# Achyver - AI-Powered Job Portal
 
-CareerAI is a comprehensive job portal that leverages artificial intelligence to connect job seekers with their ideal positions and help companies find the perfect candidates.
+Achyver is a comprehensive job portal that leverages artificial intelligence to connect job seekers with their ideal positions and help companies find the perfect candidates.
 
 ## Features
 

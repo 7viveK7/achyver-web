@@ -321,7 +321,7 @@ export default function Home() {
               <div className="inline-block rounded-lg bg-primary/10 px-3 py-1 text-sm">
                 Ready to transform your career?
               </div>
-              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Join CareerAI Today</h2>
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Join Achyver Today</h2>
               <p className="text-muted-foreground md:text-xl">
                 Whether you're looking for your next opportunity or hiring top talent, our AI-powered platform makes it
                 easier than ever.
